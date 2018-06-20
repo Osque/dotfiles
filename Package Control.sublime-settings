@@ -9,11 +9,16 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"Color Highlighter",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"Package Control",
-		"SCSS"
+		"ProductiveSnippetsERB",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-rubocop"
 	]
 }
