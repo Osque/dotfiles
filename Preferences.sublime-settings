@@ -1,26 +1,24 @@
 {
 	"always_show_minimap_viewport": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"auto_complete": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
-		"tmp",
-		"log",
-		".git",
-		".svn",
-		"_site",
-		".bundle",
-		".sass-cache",
-		".asset-cache",
-		"build",
 		"node_modules",
-		"dist",
-		"public/packs",
-		"coverage"
+		".git"
 	],
-	"font_size": 8,
+	"font_size": 13,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
